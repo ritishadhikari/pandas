@@ -71,4 +71,3 @@ with pd.ExcelWriter('Stocks_Weather.xlsx') as writer :
     df5.to_excel(writer, sheet_name='Stocks')
     df6.to_excel(writer,sheet_name='Weather')
 
-C:\Users\ritis\.PyCharmCE2018.2\config\scratches\pandas_read_write_csv_excel.py
